@@ -1,0 +1,18 @@
+html{
+scroll-behavior: smooth;
+
+}
+*{
+
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+ --mybgcolor:#040714;
+ --mytextcolor:#f9f9f9;
+ --mypadding:10px;
+ --mytextcenter:center;
+ --fontfamily:Avenir-Roman,sans-serif;
+}
